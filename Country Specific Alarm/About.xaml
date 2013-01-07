@@ -1,0 +1,71 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Country_Specific_Alarm.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="World Alarm Clock" Style="{StaticResource PhoneTextLargeStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="about" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Image Source="Background.png" Grid.Row="0" Grid.Column="0" Width="173" Height="173" HorizontalAlignment="Left"/>
+            <Grid Grid.Row="0" Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="World Alarm Clock" Grid.Row="0" FontSize="{StaticResource PhoneFontSizeLarge}" />
+                <TextBlock Text="2.2" Grid.Row="1" HorizontalAlignment="Center" FontSize="{StaticResource PhoneFontSizeLarge}" />
+            </Grid>
+            <TextBlock Text="Created By :" Grid.Row="1" Grid.Column="0" Foreground="MediumSeaGreen" FontSize="{StaticResource PhoneFontSizeLarge}" Margin="0,12,0,0" />
+            <TextBlock  VerticalAlignment="Center" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Saurabh Arora" Grid.Row="1" Grid.Column="1" FontSize="{StaticResource PhoneFontSizeLarge}" Margin="0,12,0,0" />
+
+        </Grid>
+        <TextBlock Name="Description" Text="This application allows you to set alarm according to the time in different time zones. It also allows you to compare the time with different places around the world! Note: When in 'compare time' page, you can change the 'local time' and 'local date' for comparision purposes." TextWrapping="Wrap" Grid.Row="2" Margin="0,20,0,0" FontSize="{StaticResource PhoneFontSizeMedium}" />
+
+        <TextBlock Name="Thankyou" Text="This application uses Coding4Fun toolkit and Silverlight for Windows Phone toolkit. All timezones are Courtesy of Time Genie. See their website at http://www.timegenie.com" TextWrapping="Wrap" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Foreground="Gray" />
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,23 @@
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\ApplicationIcon.png
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Background.png
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Images\appbar.new.rest.png
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Toolkit.Content\ApplicationBar.Cancel.png
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Toolkit.Content\ApplicationBar.Check.png
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\lovely_alarm.mp3
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Country Specific Alarm.dll
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Country Specific Alarm.pdb
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\obj\Debug\App.g.cs
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\obj\Debug\About.g.cs
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\obj\Debug\Alarm.g.cs
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\obj\Debug\Compare.g.cs
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\obj\Debug\Landing.g.cs
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\obj\Debug\MainPage.g.cs
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\obj\Debug\Reminders.g.cs
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\obj\Debug\Country Specific Alarm.g.resources
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\obj\Debug\Country Specific Alarm.dll
+C:\Users\Saurabh\Documents\Visual Studio 2010\Windows Phone\Country Specific Alarm\Country Specific Alarm\obj\Debug\Country Specific Alarm.pdb
