@@ -43,7 +43,10 @@ namespace Country_Specific_Alarm
         private void systemTimeTile_Tap(object sender, System.Windows.Input.GestureEventArgs e)
         {
             //freezeTile();
-            NavigationService.Navigate(new Uri("/MainPage.xaml", UriKind.Relative));
+            //NavigationService.Navigate(new Uri("/MainPage.xaml", UriKind.Relative));
+            Microsoft.Phone.Tasks.MarketplaceDetailTask buyApp = new Microsoft.Phone.Tasks.MarketplaceDetailTask();
+            buyApp.ContentIdentifier = "d21376d3-68b6-4174-9430-f1ed421347f7";
+            buyApp.Show();
         }
 
         //private void freezeTile()
