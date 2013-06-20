@@ -1,4 +1,4 @@
-World-Alarm-Clock v2.3
+World-Alarm-Clock v2.5
 =================
 
 Windows phone application which allows you to compare times and set alarm for different time zones.

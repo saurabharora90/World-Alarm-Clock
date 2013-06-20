@@ -30,11 +30,13 @@ namespace Country_Specific_Alarm
             InitializeComponent();
             settings = IsolatedStorageSettings.ApplicationSettings;
             dataSource = new List<TimeData>();
-            progress = new PerformanceProgressBar();
-            this.TitlePanel.Children.Add(progress);
-            callWebService();
+            //progress = new PerformanceProgressBar();
+            //this.TitlePanel.Children.Add(progress);
+            //callWebService();
             //timeZone.Text = TimeZoneInfo.Local.DisplayName;
-            
+
+            readXML("world-time.xml");
+
             existingZones = new ObservableCollection<SavedTimeZones>();
             MainListBox.ItemsSource = existingZones;
             load();
@@ -174,6 +176,23 @@ namespace Country_Specific_Alarm
             this.ContentPanel.Visibility = System.Windows.Visibility.Collapsed;
             progress.Foreground = new SolidColorBrush(Colors.Blue);
             progress.IsIndeterminate = true;
+        }
+
+        void readXML(string filepath)
+        {
+            //string result = ev.Result;
+            //XDocument xdoc = XDocument.Parse(result);
+            XDocument xdoc = XDocument.Load(filepath);
+            var query = from p in xdoc.Elements("worldtime").Elements("data")
+                        select p;
+            foreach (var record in query)
+            {
+                dataSource.Add(new TimeData { City = record.Element("city").Value, Country = record.Element("country").Value, offset = Convert.ToDouble(record.Element("offset").Value, new CultureInfo("en-US")) });
+            }
+
+            //Populate the autocomplete box
+            TimeBox.ItemsSource = dataSource;
+            TimeBox.ItemFilter = search;
         }
 
         void downloadCompleted(object s, DownloadStringCompletedEventArgs ev)

@@ -151,6 +151,7 @@
     <Content Include="Toolkit.Content\ApplicationBar.Check.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="world-time.xml" />
     <Resource Include="Images\about.png" />
     <Resource Include="Images\reminders.png" />
     <Resource Include="Images\review.png" />

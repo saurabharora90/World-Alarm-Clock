@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
-  <App xmlns="" ProductID="{429e870b-b5b4-415a-8ff1-e56087a06b15}" Title="World Alarm Clock" RuntimeType="Silverlight" Version="2.4.0.0" Genre="apps.normal" Author="Saurabh Arora" Description="Sample description" Publisher="Country_Specific_Alarm">
+  <App xmlns="" ProductID="{429e870b-b5b4-415a-8ff1-e56087a06b15}" Title="World Alarm Clock" RuntimeType="Silverlight" Version="2.5.0.0" Genre="apps.normal" Author="Saurabh Arora" Description="Sample description" Publisher="Country_Specific_Alarm">
     <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_GAMERSERVICES" />

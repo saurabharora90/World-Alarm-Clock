@@ -28,13 +28,16 @@ namespace Country_Specific_Alarm
         public Alarm()
         {
             InitializeComponent();
-            progress = new PerformanceProgressBar();
-            this.TitlePanel.Children.Add(progress);
+            //progress = new PerformanceProgressBar();
+            //this.TitlePanel.Children.Add(progress);
 
             dataSource = new List<TimeData>();
             
             //call webservice to download data
-            callWebService();
+            //callWebService();
+
+            //fix after API ended. Work with downloaded file
+            readXML("world-time.xml");
         }
 
         bool search(string search, object value)
@@ -62,6 +65,22 @@ namespace Country_Specific_Alarm
             this.ContentPanel.Visibility = System.Windows.Visibility.Collapsed;
             progress.Foreground = new SolidColorBrush(Colors.Blue);
             progress.IsIndeterminate = true;
+        }
+
+        void readXML(string filepath)
+        {
+
+            XDocument xdoc = XDocument.Load(filepath);
+            var query = from p in xdoc.Elements("worldtime").Elements("data")
+                        select p;
+            foreach (var record in query)
+            {
+                dataSource.Add(new TimeData { City = record.Element("city").Value, Country = record.Element("country").Value, offset = Convert.ToDouble(record.Element("offset").Value, new CultureInfo("en-US")) });
+            }
+
+            //Populate the autocomplete box
+            TimeBox.ItemsSource = dataSource;
+            TimeBox.ItemFilter = search;
         }
 
         void downloadCompleted(object s, DownloadStringCompletedEventArgs ev)
