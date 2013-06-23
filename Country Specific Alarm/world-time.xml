@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<worldtime>
+<credit>
+<!-- In order to use this data feed from timegenie.com, you have to display
+the following text, or something similar, clearly visible on your web page. The text should be a
+link to www.timegenie.com.-->
+
+<!--Please read more about our conditions and guidelines at http://rss.timegenie.com/free_xml_csv_feeds -->
+<text>Courtesy of Time Genie</text><url>http://www.timegenie.com/</url><title>world clock courtesy of Time Genie</title></credit><data>
+<unlocode>PNPCN</unlocode>
+<city>Adamstown</city>
+<country>Pitcairn</country>
+<offset>-8</offset>
+<link>http://www.timegenie.com/city.time/pnpcn</link>
+</data>
+<data>
+<unlocode>ETADD</unlocode>
+<city>Addis Ababa</city>
+<country>Ethiopia</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/etadd</link>
+</data>
+<data>
+<unlocode>AUADL</unlocode>
+<city>Adelaide</city>
+<country>Australia</country>
+<offset>9.5</offset>
+<link>http://www.timegenie.com/city.time/auadl</link>
+</data>
+<data>
+<unlocode>DZALG</unlocode>
+<city>Algiers</city>
+<country>Algeria</country>
+<offset>1</offset>
+<link>http://www.timegenie.com/city.time/dzalg</link>
+</data>
+<data>
+<unlocode>AUASP</unlocode>
+<city>Alice Springs</city>
+<country>Australia</country>
+<offset>9.5</offset>
+<link>http://www.timegenie.com/city.time/auasp</link>
+</data>
+<data>
+<unlocode>JOAMM</unlocode>
+<city>Amman</city>
+<country>Jordan</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/joamm</link>
+</data>
+<data>
+<unlocode>NLAMS</unlocode>
+<city>Amsterdam</city>
+<country>Netherlands</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/nlams</link>
+</data>
+<data>
+<unlocode>AQAMS</unlocode>
+<city>Amundsen–Scott South Pole Station</city>
+<country>Antarctica</country>
+<offset>12</offset>
+<link>http://www.timegenie.com/city.time/aqams</link>
+</data>
+<data>
+<unlocode>USANC</unlocode>
+<city>Anchorage</city>
+<country>United States</country>
+<offset>-8</offset>
+<link>http://www.timegenie.com/city.time/usanc</link>
+</data>
+<data>
+<unlocode>GRATH</unlocode>
+<city>Athens</city>
+<country>Greece</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/grath</link>
+</data>
+<data>
+<unlocode>USATL</unlocode>
+<city>Atlanta</city>
+<country>United States</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/usatl</link>
+</data>
+<data>
+<unlocode>NZAKL</unlocode>
+<city>Auckland</city>
+<country>New Zealand</country>
+<offset>12</offset>
+<link>http://www.timegenie.com/city.time/nzakl</link>
+</data>
+<data>
+<unlocode>IQBGW</unlocode>
+<city>Baghdad</city>
+<country>Iraq</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/iqbgw</link>
+</data>
+<data>
+<unlocode>THBKK</unlocode>
+<city>Bangkok</city>
+<country>Thailand</country>
+<offset>7</offset>
+<link>http://www.timegenie.com/city.time/thbkk</link>
+</data>
+<data>
+<unlocode>CNBJS</unlocode>
+<city>Beijing</city>
+<country>China</country>
+<offset>8</offset>
+<link>http://www.timegenie.com/city.time/cnbjs</link>
+</data>
+<data>
+<unlocode>LBBEY</unlocode>
+<city>Beirut</city>
+<country>Lebanon</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/lbbey</link>
+</data>
+<data>
+<unlocode>GBBEL</unlocode>
+<city>Belfast</city>
+<country>United Kingdom</country>
+<offset>0</offset>
+<link>http://www.timegenie.com/city.time/gbbel</link>
+</data>
+<data>
+<unlocode>BZBZE</unlocode>
+<city>Belize City</city>
+<country>Belize</country>
+<offset>-6</offset>
+<link>http://www.timegenie.com/city.time/bzbze</link>
+</data>
+<data>
+<unlocode>DEBER</unlocode>
+<city>Berlin</city>
+<country>Germany</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/deber</link>
+</data>
+<data>
+<unlocode>COBOG</unlocode>
+<city>Bogotá</city>
+<country>Colombia</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/cobog</link>
+</data>
+<data>
+<unlocode>AUBNE</unlocode>
+<city>Brisbane</city>
+<country>Australia</country>
+<offset>10</offset>
+<link>http://www.timegenie.com/city.time/aubne</link>
+</data>
+<data>
+<unlocode>BEBRU</unlocode>
+<city>Brussels</city>
+<country>Belgium</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/bebru</link>
+</data>
+<data>
+<unlocode>ROBUH</unlocode>
+<city>Bucharest</city>
+<country>Romania</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/robuh</link>
+</data>
+<data>
+<unlocode>HUBUD</unlocode>
+<city>Budapest</city>
+<country>Hungary</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/hubud</link>
+</data>
+<data>
+<unlocode>ARBUE</unlocode>
+<city>Buenos Aires</city>
+<country>Argentina</country>
+<offset>-3</offset>
+<link>http://www.timegenie.com/city.time/arbue</link>
+</data>
+<data>
+<unlocode>EGCAI</unlocode>
+<city>Cairo</city>
+<country>Egypt</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/egcai</link>
+</data>
+<data>
+<unlocode>CACAL</unlocode>
+<city>Calgary</city>
+<country>Canada</country>
+<offset>-6</offset>
+<link>http://www.timegenie.com/city.time/cacal</link>
+</data>
+<data>
+<unlocode>VECCS</unlocode>
+<city>Caracas</city>
+<country>Venezuela</country>
+<offset>-4.5</offset>
+<link>http://www.timegenie.com/city.time/veccs</link>
+</data>
+<data>
+<unlocode>MACAS</unlocode>
+<city>Casablanca</city>
+<country>Morocco</country>
+<offset>0</offset>
+<link>http://www.timegenie.com/city.time/macas</link>
+</data>
+<data>
+<unlocode>CACHA</unlocode>
+<city>Charlottetown</city>
+<country>Canada</country>
+<offset>-3</offset>
+<link>http://www.timegenie.com/city.time/cacha</link>
+</data>
+<data>
+<unlocode>USCHI</unlocode>
+<city>Chicago</city>
+<country>United States</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/uschi</link>
+</data>
+  <data>
+    <unlocode>SLCOL</unlocode>
+    <city>Colombo</city>
+    <country>Sri Lanka</country>
+    <offset>5.5</offset>
+    <link></link>
+  </data>
+<data>
+<unlocode>DKCPH</unlocode>
+<city>Copenhagen</city>
+<country>Denmark</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/dkcph</link>
+</data>
+<data>
+<unlocode>SYDAM</unlocode>
+<city>Damascus</city>
+<country>Syria</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/sydam</link>
+</data>
+<data>
+<unlocode>TZDAR</unlocode>
+<city>Dar es Salaam</city>
+<country>Tanzania</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/tzdar</link>
+</data>
+<data>
+<unlocode>USDEN</unlocode>
+<city>Denver</city>
+<country>United States</country>
+<offset>-6</offset>
+<link>http://www.timegenie.com/city.time/usden</link>
+</data>
+<data>
+<unlocode>USDET</unlocode>
+<city>Detroit</city>
+<country>United States</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/usdet</link>
+</data>
+<data>
+<unlocode>TLDIL</unlocode>
+<city>Dili</city>
+<country>East Timor</country>
+<offset>9</offset>
+<link>http://www.timegenie.com/city.time/tldil</link>
+</data>
+<data>
+<unlocode>QADOH</unlocode>
+<city>Doha</city>
+<country>Qatar</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/qadoh</link>
+</data>
+<data>
+<unlocode>AEDXB</unlocode>
+<city>Dubai</city>
+<country>United Arab Emirates</country>
+<offset>4</offset>
+<link>http://www.timegenie.com/city.time/aedxb</link>
+</data>
+<data>
+<unlocode>IEDUB</unlocode>
+<city>Dublin</city>
+<country>Ireland</country>
+<offset>1</offset>
+<link>http://www.timegenie.com/city.time/iedub</link>
+</data>
+<data>
+<unlocode>GTGUA</unlocode>
+<city>Guatemala City</city>
+<country>Guatemala</country>
+<offset>-6</offset>
+<link>http://www.timegenie.com/city.time/gtgua</link>
+</data>
+<data>
+<unlocode>CAHAL</unlocode>
+<city>Halifax</city>
+<country>Canada</country>
+<offset>-3</offset>
+<link>http://www.timegenie.com/city.time/cahal</link>
+</data>
+<data>
+<unlocode>VNHAN</unlocode>
+<city>Hanoi</city>
+<country>Vietnam</country>
+<offset>7</offset>
+<link>http://www.timegenie.com/city.time/vnhan</link>
+</data>
+<data>
+<unlocode>ZWHRE</unlocode>
+<city>Harare</city>
+<country>Zimbabwe</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/zwhre</link>
+</data>
+<data>
+<unlocode>CUHAV</unlocode>
+<city>Havana</city>
+<country>Cuba</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/cuhav</link>
+</data>
+<data>
+<unlocode>FIHEL</unlocode>
+<city>Helsinki</city>
+<country>Finland</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/fihel</link>
+</data>
+<data>
+<unlocode>HKHKG</unlocode>
+<city>Hong Kong</city>
+<country>Hong Kong</country>
+<offset>8</offset>
+<link>http://www.timegenie.com/city.time/hkhkg</link>
+</data>
+<data>
+<unlocode>USHNL</unlocode>
+<city>Honolulu</city>
+<country>United States</country>
+<offset>-10</offset>
+<link>http://www.timegenie.com/city.time/ushnl</link>
+</data>
+<data>
+<unlocode>USHOU</unlocode>
+<city>Houston</city>
+<country>United States</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/ushou</link>
+</data>
+<data>
+<unlocode>USIND</unlocode>
+<city>Indianapolis</city>
+<country>United States</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/usind</link>
+</data>
+<data>
+<unlocode>CAIQL</unlocode>
+<city>Iqaluit</city>
+<country>Canada</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/caiql</link>
+</data>
+<data>
+<unlocode>PKISB</unlocode>
+<city>Islamabad</city>
+<country>Pakistan</country>
+<offset>5</offset>
+<link>http://www.timegenie.com/city.time/pkisb</link>
+</data>
+  <data>
+    <unlocode>PKISB</unlocode>
+    <city>Lahore</city>
+    <country>Pakistan</country>
+    <offset>5</offset>
+    <link>http://www.timegenie.com/city.time/pkisb</link>
+  </data>
+  <data>
+    <unlocode></unlocode>
+    <city>Male</city>
+    <country>Maldives</country>
+    <offset>5</offset>
+    <link>http://www.timegenie.com/city.time/pkisb</link>
+  </data>
+<data>
+<unlocode>TRIST</unlocode>
+<city>Istanbul</city>
+<country>Turkey</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/trist</link>
+</data>
+<data>
+<unlocode>IDJKT</unlocode>
+<city>Jakarta</city>
+<country>Indonesia</country>
+<offset>7</offset>
+<link>http://www.timegenie.com/city.time/idjkt</link>
+</data>
+<data>
+<unlocode>ZAJNB</unlocode>
+<city>Johannesburg</city>
+<country>South Africa</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/zajnb</link>
+</data>
+<data>
+<unlocode>AFKBL</unlocode>
+<city>Kābul</city>
+<country>Afghanistan</country>
+<offset>4.5</offset>
+<link>http://www.timegenie.com/city.time/afkbl</link>
+</data>
+<data>
+<unlocode>NPKTM</unlocode>
+<city>Kathmandu</city>
+<country>Nepal</country>
+<offset>5.75</offset>
+<link>http://www.timegenie.com/city.time/npktm</link>
+</data>
+<data>
+<unlocode>UAIEV</unlocode>
+<city>Kiev</city>
+<country>Ukraine</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/uaiev</link>
+</data>
+<data>
+<unlocode>CDFIH</unlocode>
+<city>Kinshasa</city>
+<country>Congo – Democratic Republic</country>
+<offset>1</offset>
+<link>http://www.timegenie.com/city.time/cdfih</link>
+</data>
+<data>
+<unlocode>MYKUL</unlocode>
+<city>Kuala Lumpur</city>
+<country>Malaysia</country>
+<offset>8</offset>
+<link>http://www.timegenie.com/city.time/mykul</link>
+</data>
+<data>
+<unlocode>KWKWI</unlocode>
+<city>Kuwait City</city>
+<country>Kuwait</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/kwkwi</link>
+</data>
+<data>
+<unlocode>BOLPB</unlocode>
+<city>La Paz</city>
+<country>Bolivia</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/bolpb</link>
+</data>
+<data>
+<unlocode>USLAS</unlocode>
+<city>Las Vegas</city>
+<country>United States</country>
+<offset>-7</offset>
+<link>http://www.timegenie.com/city.time/uslas</link>
+</data>
+<data>
+<unlocode>PELIM</unlocode>
+<city>Lima</city>
+<country>Peru</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/pelim</link>
+</data>
+<data>
+<unlocode>PTLIS</unlocode>
+<city>Lisbon</city>
+<country>Portugal</country>
+<offset>1</offset>
+<link>http://www.timegenie.com/city.time/ptlis</link>
+</data>
+<data>
+<unlocode>GBLON</unlocode>
+<city>London</city>
+<country>United Kingdom</country>
+<offset>0</offset>
+<link>http://www.timegenie.com/city.time/gblon</link>
+</data>
+  <data>
+    <unlocode>GBLON</unlocode>
+    <city>Edinburgh</city>
+    <country>Scotland</country>
+    <offset>0</offset>
+    <link>http://www.timegenie.com/city.time/gblon</link>
+  </data>
+<data>
+<unlocode>USLAX</unlocode>
+<city>Los Angeles</city>
+<country>United States</country>
+<offset>-7</offset>
+<link>http://www.timegenie.com/city.time/uslax</link>
+</data>
+<data>
+<unlocode>ESMAD</unlocode>
+<city>Madrid</city>
+<country>Spain</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/esmad</link>
+</data>
+<data>
+<unlocode>NIMGA</unlocode>
+<city>Managua</city>
+<country>Nicaragua</country>
+<offset>-6</offset>
+<link>http://www.timegenie.com/city.time/nimga</link>
+</data>
+<data>
+<unlocode>PHMNL</unlocode>
+<city>Manila</city>
+<country>Philippines</country>
+<offset>8</offset>
+<link>http://www.timegenie.com/city.time/phmnl</link>
+</data>
+<data>
+<unlocode>AUMEL</unlocode>
+<city>Melbourne</city>
+<country>Australia</country>
+<offset>10</offset>
+<link>http://www.timegenie.com/city.time/aumel</link>
+</data>
+<data>
+<unlocode>MXMEX</unlocode>
+<city>Mexico City</city>
+<country>Mexico</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/mxmex</link>
+</data>
+<data>
+<unlocode>USMIA</unlocode>
+<city>Miami</city>
+<country>United States</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/usmia</link>
+</data>
+<data>
+<unlocode>JMMBJ</unlocode>
+<city>Montego Bay</city>
+<country>Jamaica</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/jmmbj</link>
+</data>
+<data>
+<unlocode>CAMTR</unlocode>
+<city>Montreal</city>
+<country>Canada</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/camtr</link>
+</data>
+<data>
+<unlocode>RUMOW</unlocode>
+<city>Moscow</city>
+<country>Russia</country>
+<offset>4</offset>
+<link>http://www.timegenie.com/city.time/rumow</link>
+</data>
+<data>
+<unlocode>KENBO</unlocode>
+<city>Nairobi</city>
+<country>Kenya</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/kenbo</link>
+</data>
+<data>
+<unlocode>USBNA</unlocode>
+<city>Nashville</city>
+<country>United States</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/usbna</link>
+</data>
+<data>
+<unlocode>INICD</unlocode>
+<city>New Delhi</city>
+<country>India</country>
+<offset>5.5</offset>
+<link>http://www.timegenie.com/city.time/inicd</link>
+</data>
+  <data>
+    <unlocode>INICD</unlocode>
+    <city>Mumbai</city>
+    <country>India</country>
+    <offset>5.5</offset>
+    <link>http://www.timegenie.com/city.time/inicd</link>
+  </data>
+  <data>
+    <unlocode>INICD</unlocode>
+    <city>Chennai</city>
+    <country>India</country>
+    <offset>5.5</offset>
+    <link>http://www.timegenie.com/city.time/inicd</link>
+  </data>
+  <data>
+    <unlocode>INICD</unlocode>
+    <city>Calcutta</city>
+    <country>India</country>
+    <offset>5.5</offset>
+    <link>http://www.timegenie.com/city.time/inicd</link>
+  </data>
+  <data>
+    <unlocode>INICD</unlocode>
+    <city>Dhaka</city>
+    <country>Bangladesh</country>
+    <offset>6</offset>
+    <link>http://www.timegenie.com/city.time/inicd</link>
+  </data>
+<data>
+<unlocode>USMSY</unlocode>
+<city>New Orleans</city>
+<country>United States</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/usmsy</link>
+</data>
+<data>
+<unlocode>USNYC</unlocode>
+<city>New York City</city>
+<country>United States</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/usnyc</link>
+</data>
+<data>
+<unlocode>GLGOH</unlocode>
+<city>Nuuk</city>
+<country>Greenland</country>
+<offset>-2</offset>
+<link>http://www.timegenie.com/city.time/glgoh</link>
+</data>
+<data>
+<unlocode>NOOSL</unlocode>
+<city>Oslo</city>
+<country>Norway</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/noosl</link>
+</data>
+<data>
+<unlocode>CAOTT</unlocode>
+<city>Ottawa</city>
+<country>Canada</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/caott</link>
+</data>
+<data>
+<unlocode>PAPTY</unlocode>
+<city>Panama City</city>
+<country>Panama</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/papty</link>
+</data>
+<data>
+<unlocode>PFPPT</unlocode>
+<city>Papeete</city>
+<country>French Polynesia</country>
+<offset>-10</offset>
+<link>http://www.timegenie.com/city.time/pfppt</link>
+</data>
+<data>
+<unlocode>FRPAR</unlocode>
+<city>Paris</city>
+<country>France</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/frpar</link>
+</data>
+<data>
+<unlocode>AUPER</unlocode>
+<city>Perth</city>
+<country>Australia</country>
+<offset>8</offset>
+<link>http://www.timegenie.com/city.time/auper</link>
+</data>
+<data>
+<unlocode>RUPKC</unlocode>
+<city>Petropavlovsk–Kamchatsky</city>
+<country>Russia</country>
+<offset>12</offset>
+<link>http://www.timegenie.com/city.time/rupkc</link>
+</data>
+<data>
+<unlocode>KHPNH</unlocode>
+<city>Phnom Penh</city>
+<country>Cambodia</country>
+<offset>7</offset>
+<link>http://www.timegenie.com/city.time/khpnh</link>
+</data>
+<data>
+<unlocode>USPHX</unlocode>
+<city>Phoenix</city>
+<country>United States</country>
+<offset>-7</offset>
+<link>http://www.timegenie.com/city.time/usphx</link>
+</data>
+<data>
+<unlocode>MUPLU</unlocode>
+<city>Port Louis</city>
+<country>Mauritius</country>
+<offset>4</offset>
+<link>http://www.timegenie.com/city.time/muplu</link>
+</data>
+<data>
+<unlocode>PGPOM</unlocode>
+<city>Port Moresby</city>
+<country>Papua New Guinea</country>
+<offset>10</offset>
+<link>http://www.timegenie.com/city.time/pgpom</link>
+</data>
+<data>
+<unlocode>CZPRG</unlocode>
+<city>Prague</city>
+<country>Czech Republic</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/czprg</link>
+</data>
+<data>
+<unlocode>ISREY</unlocode>
+<city>Reykjavík</city>
+<country>Iceland</country>
+<offset>0</offset>
+<link>http://www.timegenie.com/city.time/isrey</link>
+</data>
+<data>
+<unlocode>LVRIX</unlocode>
+<city>Riga</city>
+<country>Latvia</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/lvrix</link>
+</data>
+<data>
+<unlocode>BRRIO</unlocode>
+<city>Rio de Janeiro</city>
+<country>Brazil</country>
+<offset>-3</offset>
+<link>http://www.timegenie.com/city.time/brrio</link>
+</data>
+<data>
+<unlocode>SARUH</unlocode>
+<city>Riyadh</city>
+<country>Saudi Arabia</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/saruh</link>
+</data>
+<data>
+<unlocode>ITROM</unlocode>
+<city>Rome</city>
+<country>Italy</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/itrom</link>
+</data>
+<data>
+<unlocode>USSLC</unlocode>
+<city>Salt Lake City</city>
+<country>United States</country>
+<offset>-6</offset>
+<link>http://www.timegenie.com/city.time/usslc</link>
+</data>
+<data>
+<unlocode>CRSJO</unlocode>
+<city>San José</city>
+<country>Costa Rica</country>
+<offset>-6</offset>
+<link>http://www.timegenie.com/city.time/crsjo</link>
+</data>
+<data>
+<unlocode>PRSJU</unlocode>
+<city>San Juan</city>
+<country>Puerto Rico</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/prsju</link>
+</data>
+<data>
+<unlocode>SVSAL</unlocode>
+<city>San Salvador</city>
+<country>El Salvador</country>
+<offset>-6</offset>
+<link>http://www.timegenie.com/city.time/svsal</link>
+</data>
+<data>
+<unlocode>CLSCL</unlocode>
+<city>Santiago</city>
+<country>Chile</country>
+<offset>-3</offset>
+<link>http://www.timegenie.com/city.time/clscl</link>
+</data>
+<data>
+<unlocode>USSEA</unlocode>
+<city>Seattle</city>
+<country>United States</country>
+<offset>-7</offset>
+<link>http://www.timegenie.com/city.time/ussea</link>
+</data>
+<data>
+<unlocode>KRSEL</unlocode>
+<city>Seoul</city>
+<country>Korea – South</country>
+<offset>9</offset>
+<link>http://www.timegenie.com/city.time/krsel</link>
+</data>
+<data>
+<unlocode>SGSIN</unlocode>
+<city>Singapore</city>
+<country>Singapore</country>
+<offset>8</offset>
+<link>http://www.timegenie.com/city.time/sgsin</link>
+</data>
+<data>
+<unlocode>CASJF</unlocode>
+<city>St. John’s</city>
+<country>Canada</country>
+<offset>-2.5</offset>
+<link>http://www.timegenie.com/city.time/casjf</link>
+</data>
+<data>
+<unlocode>USMSP</unlocode>
+<city>St. Paul</city>
+<country>United States</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/usmsp</link>
+</data>
+<data>
+<unlocode>SESTO</unlocode>
+<city>Stockholm</city>
+<country>Sweden</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/sesto</link>
+</data>
+<data>
+<unlocode>FJSUV</unlocode>
+<city>Suva</city>
+<country>Fiji</country>
+<offset>12</offset>
+<link>http://www.timegenie.com/city.time/fjsuv</link>
+</data>
+<data>
+<unlocode>GBSWA</unlocode>
+<city>Swansea</city>
+<country>United Kingdom</country>
+<offset>0</offset>
+<link>http://www.timegenie.com/city.time/gbswa</link>
+</data>
+<data>
+<unlocode>AUSYD</unlocode>
+<city>Sydney</city>
+<country>Australia</country>
+<offset>10</offset>
+<link>http://www.timegenie.com/city.time/ausyd</link>
+</data>
+<data>
+<unlocode>TWTPE</unlocode>
+<city>Taipei</city>
+<country>Taiwan – Chinese Taipei</country>
+<offset>8</offset>
+<link>http://www.timegenie.com/city.time/twtpe</link>
+</data>
+<data>
+<unlocode>UZTAS</unlocode>
+<city>Tashkent</city>
+<country>Uzbekistan</country>
+<offset>5</offset>
+<link>http://www.timegenie.com/city.time/uztas</link>
+</data>
+<data>
+<unlocode>IRTHR</unlocode>
+<city>Tehran</city>
+<country>Iran</country>
+<offset>4.5</offset>
+<link>http://www.timegenie.com/city.time/irthr</link>
+</data>
+<data>
+<unlocode>ILTLV</unlocode>
+<city>Tel Aviv–Yafo</city>
+<country>Israel</country>
+<offset>3</offset>
+<link>http://www.timegenie.com/city.time/iltlv</link>
+</data>
+<data>
+<unlocode>JPTYO</unlocode>
+<city>Tokyo</city>
+<country>Japan</country>
+<offset>9</offset>
+<link>http://www.timegenie.com/city.time/jptyo</link>
+</data>
+<data>
+<unlocode>CATOR</unlocode>
+<city>Toronto</city>
+<country>Canada</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/cator</link>
+</data>
+<data>
+<unlocode>LYTIP</unlocode>
+<city>Tripoli</city>
+<country>Libya</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/lytip</link>
+</data>
+<data>
+<unlocode>TNTUN</unlocode>
+<city>Tunis</city>
+<country>Tunisia</country>
+<offset>1</offset>
+<link>http://www.timegenie.com/city.time/tntun</link>
+</data>
+<data>
+<unlocode>CAVAN</unlocode>
+<city>Vancouver</city>
+<country>Canada</country>
+<offset>-7</offset>
+<link>http://www.timegenie.com/city.time/cavan</link>
+</data>
+<data>
+<unlocode>ATVIE</unlocode>
+<city>Vienna</city>
+<country>Austria</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/atvie</link>
+</data>
+<data>
+<unlocode>PLWAW</unlocode>
+<city>Warsaw</city>
+<country>Poland</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/plwaw</link>
+</data>
+<data>
+<unlocode>USWAS</unlocode>
+<city>Washington D.C.</city>
+<country>United States</country>
+<offset>-4</offset>
+<link>http://www.timegenie.com/city.time/uswas</link>
+</data>
+<data>
+<unlocode>NAWDH</unlocode>
+<city>Windhoek</city>
+<country>Namibia</country>
+<offset>1</offset>
+<link>http://www.timegenie.com/city.time/nawdh</link>
+</data>
+<data>
+<unlocode>CAWNP</unlocode>
+<city>Winnipeg</city>
+<country>Canada</country>
+<offset>-5</offset>
+<link>http://www.timegenie.com/city.time/cawnp</link>
+</data>
+<data>
+<unlocode>MMRGN</unlocode>
+<city>Yangon</city>
+<country>Myanmar</country>
+<offset>6.5</offset>
+<link>http://www.timegenie.com/city.time/mmrgn</link>
+</data>
+<data>
+<unlocode>HRZAG</unlocode>
+<city>Zagreb</city>
+<country>Croatia</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/hrzag</link>
+</data>
+<data>
+<unlocode>CHZRH</unlocode>
+<city>Zürich</city>
+<country>Switzerland</country>
+<offset>2</offset>
+<link>http://www.timegenie.com/city.time/chzrh</link>
+</data>
+</worldtime>

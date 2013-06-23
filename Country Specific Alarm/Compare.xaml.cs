@@ -30,7 +30,7 @@ namespace Country_Specific_Alarm
             InitializeComponent();
             settings = IsolatedStorageSettings.ApplicationSettings;
             dataSource = new List<TimeData>();
-            //progress = new PerformanceProgressBar();
+            progress = new PerformanceProgressBar();
             //this.TitlePanel.Children.Add(progress);
             //callWebService();
             //timeZone.Text = TimeZoneInfo.Local.DisplayName;

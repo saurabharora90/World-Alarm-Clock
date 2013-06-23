@@ -28,7 +28,7 @@ namespace Country_Specific_Alarm
         public Alarm()
         {
             InitializeComponent();
-            //progress = new PerformanceProgressBar();
+            progress = new PerformanceProgressBar();
             //this.TitlePanel.Children.Add(progress);
 
             dataSource = new List<TimeData>();
